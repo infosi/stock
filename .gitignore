@@ -86,11 +86,11 @@ build/
 # CMake
 cmake-build-*/
 
-# Mongo Explorer plugin
-.idea/**/mongoSettings.xml
-
 # IntelliJ
 out/
+
+# Mongo Explorer plugin
+.idea/**/mongoSettings.xml
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
